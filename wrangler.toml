@@ -7,3 +7,7 @@ main = "index.js"  # Path to your Worker script
 # UPSTREAM_HOST = ""  # Placeholder; actual value set in Cloudflare UI
 # UPSTREAM_PORT = ""  # Placeholder
 UPSTREAM_PATH = "/"  # Placeholder
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
