@@ -1,8 +1,0 @@
-vless://43e15d00-506b-4f3e-811d-0256c28c4098@healthsync.ir:80?security=&sni=us1.v2vless.xyz&type=ws&path=/vless&host=healthsync.ir&encryption=none#sshocean-smv-us-0326sat-ws
-
-vless://fba2ac57-953a-4ea7-b799-4331c248036c@ast3.healthsync.ir:8080?host=ast3.healthsync.ir&path=%2Fvless&security=none&type=ws#sshmax-smv-at3-0326sat-ws
-
-vless://de1c5ff6-5cfe-447e-b414-c27173801a8b@ca03.healthsync.ir:80?host=ca03.healthsync.ir&path=%2Fvless&security=none&type=ws#sshmax-smv-ca03-0327-sat-ws
-
-vless://3a8e4673-8d11-4200-8204-cd8b04f54f12@ca02.healthsync.ir:080?host=ca02.healthsync.ir&path=%2Fvless&security=none&type=ws#sshmax-smv-ca02-0404-mon-ws
-vless://29ee2bc2-786c-4ff4-8652-00595f2c61c3@ca03.healthsync.ir:80?host=ca03.healthsync.ir&path=%2Fvless&security=none&type=ws#sshmax-smv-ca03-0407-thu-ws
