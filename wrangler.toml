@@ -4,6 +4,6 @@ main = "index.js"  # Path to your Worker script
 
 # Environment variables (optional, for reference; actual values are set in Cloudflare UI)
 [vars]
-UPSTREAM_HOST = ""  # Placeholder; actual value set in Cloudflare UI
-UPSTREAM_PORT = ""  # Placeholder
+# UPSTREAM_HOST = ""  # Placeholder; actual value set in Cloudflare UI
+# UPSTREAM_PORT = ""  # Placeholder
 UPSTREAM_PATH = "/"  # Placeholder
