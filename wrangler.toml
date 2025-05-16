@@ -1,4 +1,4 @@
-name = "help-me-pass"  # Replace with your Worker name
+name = "help-me-pass-u_"  # Replace with your Worker name
 compatibility_date = "2025-05-16"
 main = "index.js"  # Path to your Worker script
 
